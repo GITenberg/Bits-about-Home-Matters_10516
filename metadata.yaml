@@ -1,0 +1,43 @@
+_repo: Bits-about-Home-Matters_10516
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jackson, Helen Hunt
+    aliases:
+    - Jackson, Helen Maria Fiske Hunt
+    - Holm, Saxe
+    - Hunt, Helen Maria Fiske
+    - Jackson, H. H. (Helen Hunt)
+    birthdate: 1830
+    deathdate: 1885
+    gutenberg_agent_id: '1030'
+    url: http://www.gutenberg.org/2009/agents/1030
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10516'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home'
+- !lcc 'HQ'
+- GITenberg
+tableOfContents: 'The inhumanities of parents: corporal punishment -- The inhumanities
+  of parents: needless denials -- The inhumanities of parents: rudeness -- Breaking
+  the will -- The reign of Archelaus -- The awkward age -- A day with a courteous
+  mother -- Children in Nova Scotia -- The republic of the family -- The ready-to-halts
+  -- The descendants of Nabal -- "Boys not allowed" -- Half an hour in a railway station
+  -- A genius for affection -- Rainy days -- Friends of the prisoners -- A companion
+  for the winter -- Choice of colors -- The apostle of beauty -- English lodging-houses
+  -- Wet the clay -- The king''s friend -- Learning to speak -- Private tyrants --
+  Margin -- The fine art of smiling -- Death-bed repentance -- The correlation of
+  moral forces -- A simple bill of fare for a Christmas dinner -- Children''s parties
+  -- After-supper talk -- Hysteria in literature -- Jog trot -- The joyless American
+  -- Spiritual teething -- Glass houses -- The old-clothes monger in journalism --
+  The country landlord''s side -- The good staff of pleasure -- Wanted: a home.'
+title: Bits about Home Matters
+url: http://www.gutenberg.org/ebooks/10516
